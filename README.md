@@ -64,7 +64,22 @@ gcloud run deploy ai-career-copilot \
 Set your OPENAI_API_KEY in environment variables
 Make sure Docker is installed for deployment
 
-## 👨‍💻 Author
-- Dejan Jovic
+## 🧠 How it works
+
+1. Upload a resume in PDF format
+2. Paste a job description
+3. The app extracts and analyzes resume content
+4. AI compares the resume with the job description
+5. The app returns:
+- Match score
+- Skill gap analysis
+- Improvement suggestions
+- PDF export
+
+## 👤 Author
+
+**Dejan Jovic**
+📧 dejan.jovic1283@gmail.com
+
 
 ---
